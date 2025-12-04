@@ -3,7 +3,7 @@
 
 I am a computer engineering major here at CSUF and I am planning to graduate in 2029.
 
-## Favorite CSPC 120 Labs
+## Favorite CSPC 120L Labs
 
 * Lab 6, part 2 
 
@@ -15,4 +15,4 @@ I am a computer engineering major here at CSUF and I am planning to graduate in 
 
 * Lab 7 
 
-    This lab challenged my way of thinking and gave me a new perspective on the way I see things, but also figuring out how code is written. When it came to doing the “if” and “else” statements, I really had to think about how to make them work accurately, whether it was making something less than, greater than, equal to, or anything except certain numbers. The number of conditions also helped me to work on my formatting skills.  
+    This lab challenged my way of thinking and gave me a new perspective on the way I see things, but also figuring out how code is written. When it came to doing the “if” and “else” statements, I really had to think about how to make them work accurately, whether it was making something less than, greater than, equal to, or anything except certain numbers. The number of conditions also helped me to work on my formatting skills. 
